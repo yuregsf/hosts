@@ -1,1 +1,24 @@
-/etc/hosts_work
+# Custom hosts file with sites and SNS where I lose my time
+
+127.0.1.1	localhost.localdomain	siren
+
+0.0.0.0	www.whatsapp.com
+0.0.0.0 www.web.whatsapp.com
+0.0.0.0	www.facebook.com
+0.0.0.0	www.4chan.org
+0.0.0.0	www.reddit.com
+0.0.0.0	www.4channel.org
+0.0.0.0	www.pt.quora.com
+0.0.0.0	www.quora.com
+0.0.0.0 www.viki.com
+0.0.0.0	www.netflix.com
+0.0.0.0 www.instagram.com
+0.0.0.0	www.tinder.com
+0.0.0.0	www.twitter.com
+0.0.0.0 www.tweetdeck.twitter.com
+0.0.0.0	www.jstris.jezevec10.com
+0.0.0.0 www.store.steampowered.com
+0.0.0.0 www.steampowered.com
+0.0.0.0 www.steamcommunity.com
+0.0.0.0 www.discordapp.com
+0.0.0.0 www.discord.gg
