@@ -1,2 +1,3 @@
-0 8 * * 1-5 ln -f /etc/hosts_work /etc/hosts
-0 20 * * 1-5 ln -f /etc/hosts_free /etc/hosts
+* 8-19 * * 1-5 ln -f /etc/hosts_work /etc/hosts
+* 20-23 * * 1-5 ln -f /etc/hosts_free /etc/hosts
+* 0-7 * * 1-5 ln -f /etc/hosts_free /etc/hosts
